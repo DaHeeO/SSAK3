@@ -15,7 +15,7 @@ SSAK3 : 알아서 빨래수거를 해주는 로봇 🤖
 <br>
 
 # 👪 멤버
-| BE, ROS | BE, ROS | BE, FE | FE, ROS | ROS | FE, ROS
+| BE, ROS | BE, ROS | Infra, BE | FE, ROS | ROS | FE, ROS
 | -------- | -------- | -------- | -------- | -------- | --------
 | [김라현](https://github.com/wwldwwld7) | [김예진](https://github.com/Kim-Yejinn) | [오다희](https://github.com/DaHeeO) | [이정섭](https://github.com/ZScomnet) | [이승종](https://github.com/bbong-gu) | [홍영기](https://github.com/YoungKiHong85) 
 
